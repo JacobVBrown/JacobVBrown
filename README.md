@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jacob Brown</h1>
-<h3 align="center">Aspiring IT & Data Analysis Professional | Computer Science & Physics Student</h3>
+<h3 align="center">Aspiring IT & Data Analysis Professional | HBSc Computer Science & Physics </h3>
 
-- 🔭 Currently studying **BSc Honours in Computer Science and Physics** with a **Minor in Mathematics** at Trent University  
+- 🔭 Studied **BSc Honours in Computer Science and Physics** with a **Minor in Mathematics** at Trent University  
 - 🤖 Skilled in **Python**, **SQL**, **C**, **C#**, **Java**, and **Shell Programming**  
 - 💼 Bringing leadership experience from the **Canadian Armed Forces** to excel in IT roles  
 - 🌱 Passionate about **data analysis**, **cybersecurity**, and **database management**  
